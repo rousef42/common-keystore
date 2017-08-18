@@ -5,7 +5,7 @@
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.dell.cpsd.common.keystore/common-keystore/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.dell.cpsd.common.keystore/common-keystore)
 [![Semver](http://img.shields.io/SemVer/2.0.0.png)](http://semver.org/spec/v2.0.0.html)
 
-## rcm-fitness-common-keystore
+## common-keystore
 
 ## Description
 Use this repository to generate keystores for storing certificate chains and private keys. This repository also provides the utility class for encrypting (using the public key) and decrypting (using the private key) plain text information.
