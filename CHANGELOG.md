@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
  
 ## [Unreleased]
 
+### Changed
+- Updated the GroupID identifier to be consistent with naming convention com.dell.cpsd.
+- All import and package statements modified to reflect the new name.
+
 ## [1.4.0] - 2017-07-25
 ### Added
- - Creation of the initial Changelog file
+ - Creation of the initial Changelog file.
