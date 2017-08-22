@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/dellemc-symphony/common-keystore.svg?branch=master)](https://travis-ci.org/dellemc-symphony/common-keystore)
 [![Slack](http://community.codedellemc.com/badge.svg)](https://codecommunity.slack.com/messages/symphony)
 [![codecov](https://codecov.io/gh/dellemc-symphony/common-keystore/branch/master/graph/badge.svg)](https://codecov.io/gh/dellemc-symphony/common-keystore)
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.dell.cpsd.common.keystore/common-keystore/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.dell.cpsd.common.keystore/common-keystore)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.dell.cpsd/common-keystore/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.dell.cpsd/common-keystore)
 [![Semver](http://img.shields.io/SemVer/2.0.0.png)](http://semver.org/spec/v2.0.0.html)
 
 ## common-keystore
