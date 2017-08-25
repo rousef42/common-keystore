@@ -6,10 +6,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
-### Added
-
-### Changed
- 
 ## [2.0.0] - 2017-08-21
 
 ### Changed
@@ -18,7 +14,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [1.4.0] - 2017-07-25
 ### Added
- - Creation of the initial Changelog file.
+ - Creation of the initial changelog file.
  
  [Unreleased]: https://github.com/dellemc-symphony/common-keystore/compare/2.0.0...HEAD
  [2.0.0]: https://github.com/dellemc-symphony/common-keystore/compare/1.4.0...2.0.0
