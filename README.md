@@ -1,7 +1,7 @@
 [![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
 [![Build Status](https://travis-ci.org/dellemc-symphony/common-keystore.svg?branch=master)](https://travis-ci.org/dellemc-symphony/common-keystore)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/db3e4766a24b485a92829709deeff3f3)](https://www.codacy.com/app/svc-pebuildrelease/common-keystore?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dellemc-symphony/common-keystore&amp;utm_campaign=Badge_Grade)
-[![Slack](http://community.codedellemc.com/badge.svg)](https://codecommunity.slack.com/messages/symphony)
+[![Slack](http://img.shields.io/badge/slack-join%20the%20chat-00B9FF.svg?style=flat-square)](https://codecommunity.slack.com/messages/symphony)
 [![codecov](https://codecov.io/gh/dellemc-symphony/common-keystore/branch/master/graph/badge.svg)](https://codecov.io/gh/dellemc-symphony/common-keystore)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.dell.cpsd/common-keystore/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.dell.cpsd/common-keystore)
 [![Semver](http://img.shields.io/SemVer/2.0.0.png)](http://semver.org/spec/v2.0.0.html)
