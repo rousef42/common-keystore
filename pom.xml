@@ -1,5 +1,4 @@
-<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <!--
     Copyright (c) 2017 Dell Inc. or its subsidiaries.  All Rights Reserved.
@@ -13,14 +12,14 @@
 
     <groupId>com.dell.cpsd</groupId>
     <artifactId>common-keystore</artifactId>
-    <version>0.1.0-SNAPSHOT</version>
+    <version>0.3.0</version>
     <packaging>jar</packaging>
 
     <name>common-keystore</name>
     <description>This is the standard project for the common-keystore that can be used by multiple services
         to generate the key stores for storing certificate chains or keys.
     </description>
-    <url>https://github.com/dellemc-symphony/common-keystore</url>
+    <url>https://github.com/rousef42/common-keystore</url>
 
     <licenses>
         <license>
@@ -81,11 +80,11 @@
     </developers>
 
     <scm>
-        <connection>scm:git:https://github.com/dellemc-symphony/common-keystore.git</connection>
-        <developerConnection>scm:git:https://github.com/dellemc-symphony/common-keystore
+        <connection>scm:git:https://github.com/rousef42/common-keystore.git</connection>
+        <developerConnection>scm:git:https://github.com/rousef42/common-keystore
         </developerConnection>
-	<url>https://github.com/dellemc-symphony/common-keystore/tree/master</url>
-        <tag>HEAD</tag>
+	<url>https://github.com/rousef42/common-keystore/tree/master</url>
+        <tag>common-keystore-0.3.0</tag>
     </scm>
 
     <dependencies>
