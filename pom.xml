@@ -12,7 +12,7 @@
 
     <groupId>com.dell.cpsd</groupId>
     <artifactId>common-keystore</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>common-keystore</name>
@@ -84,7 +84,7 @@
         <developerConnection>scm:git:https://github.com/rousef42/common-keystore
         </developerConnection>
 	<url>https://github.com/rousef42/common-keystore/tree/master</url>
-        <tag>common-keystore-0.1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
