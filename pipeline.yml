@@ -1,0 +1,27 @@
+
+resources:
+  - name: source-code
+    type: git
+    source:
+      uri: https://github.com/rousef42/common-keystore.git
+      branch: concourse_test
+
+jobs:
+  - name: maven-package
+    plan:
+    - aggregate:
+      - get: source-code
+        trigger: true
+    - task: maven-package
+      privileged: true
+      file: source-code/pipeline/maven-package.yml
+
+#   - name: rename file
+#     plan:
+#     - aggregate:
+#       - get: jar-file
+#         trigger: true
+#         passed: [maven-package]
+#       - get: time
+#     - task: rename-file
+#       file: git-repo/pipeline/rename-file.yml
